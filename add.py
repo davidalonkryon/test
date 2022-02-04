@@ -7,6 +7,6 @@ def add(argument_a, argument_b):
     """
     This function adds two numbers
     """
+    println("HelloWORLD")
     return argument_a+argument_b
-    println(argument_a+argument_b)
 
